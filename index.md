@@ -2,13 +2,15 @@
 Python is a high-level programming language that is widely used for general purpose programming. It was designed yo be simple, readable, and easy to learn, especially for beginners. It is popular among students, developers and businesses as it allows users to write programs using fewer lines of code. 
 ---------------------------------------------------------------
 #Key Concepts
+
 high level language: it uses simple english like syntax, making it easy to read and understand.
 interpreted language: python code is executed line bhy line, making debugging easier.
 open source: free to use and its source code is publically available.
 cross-platform: it can run on Windows, macOS, and Linux
 large community support: strong global community
-
+------------------------------------------------------------
 #Simple Syntax Examples
+
 x = 10
 name m= "Python"
 ------------------------------------------------------------
