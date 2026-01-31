@@ -1,11 +1,7 @@
-![Python Logo](https://www.python.org)
 
 <p align="center">
-  <img src="https://www.python.org" width="300" alt="Python Logo">
+  <img src="https://www.python.org/static/img/psf-logo.png" width="300" alt="Python Logo">
 </p>
-[![Python Logo](https://www.python.org)](https://www.python.org)
-![Python](https://img.shields.io)
-
 
 # Introduction
 
@@ -24,7 +20,9 @@ large community support: strong global community
 # Simple Syntax Examples
 
 x = 10
+
 name m= "Python"
+
 ------------------------------------------------------------
 # Real-Life or Business Use Case
 Python is widely used in real-life and business environments. In economics and finance, Python is used to manage financial data, automate calculations, and generate reports. Many banks and financial institutions use Python for risk analysis, forecasting, and data management. Python is also used by companies to automate repetitive business tasks.
@@ -38,20 +36,25 @@ Python is widely used in real-life and business environments. In economics and f
 -Saves time and increases productivity
 
 -Used in many fields such as economics, finance, web development, and data science
+
 ------------------------------------------------------------
 # Limitations
-Easy to learn and use for beginners
 
--Simple and readable syntax
+-Slower execution speed compared to some compiled languages
 
--Large collection of libraries and tools
+-Not the best choice for mobile application development
 
--Saves time and increases productivity
+-Consumes more memory in some applications
 
--Used in many fields such as economics, finance, web development, and data science
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*VzGJwCzzCXprOOot" width="300" alt="Python Logo">
+</p>
+
 ------------------------------------------------------------
 # Summary
+
 Python is a powerful and beginner-friendly programming language. Its simple syntax, wide range of applications, and strong community support make it one of the most popular languages in the world. Python is especially useful in education, business, and economics, making it a valuable skill to learn.
+
 ------------------------------------------------------------
 Tanya Sakharkar
 2433374
